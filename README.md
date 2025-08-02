@@ -1,4 +1,5 @@
 🐍 Eunectes murinus - Snake Game in C++
+Created by: Rayan Gurashi - Sara Hisham
 
 1. DESCRIPTION
 
